@@ -1,1 +1,13 @@
-tab_spaces = 2
+edition              = "2024"
+max_width            = 80
+newline_style        = "Unix"
+normalize_comments   = true
+reorder_modules      = true
+space_after_colon    = true
+space_before_colon   = true
+spaces_around_ranges = true
+style_edition        = "2024"
+tab_spaces           = 2
+trailing_comma       = "Vertical"
+trailing_semicolon   = true
+wrap_comments        = true
