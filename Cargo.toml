@@ -1,6 +1,11 @@
 [package]
-name = "julie"
-version = "0.0.0"
-edition = "2025"
+name        = "julie"
+version     = "0.0.0"
+authors     = ["Gray Espinoza <grey@grayespinoza.dev>"]
+edition     = "2024"
+description = "A music player"
+readme      = "docs/README.md"
+repository  = "https://github.com/grayespinoza/julie"
+license     = "GPL-3.0-or-later"
 
 [dependencies]
