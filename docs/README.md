@@ -1,6 +1,7 @@
 # Julie
 ![Commits since Latest Release](https://img.shields.io/github/commits-since/grayespinoza/julie/latest?style=flat&label=Commits%20since%20Latest%20Release&labelColor=%231b1b1b&color=%230969da)
 ![License](https://img.shields.io/github/license/grayespinoza/julie?style=flat&label=License&labelColor=%231b1b1b&color=%230969da)
+![CI Status](https://img.shields.io/github/actions/workflow/status/grayespinoza/julie/ci.yml?style=flat&label=CI&labelColor=%231b1b1b&color=%231f883d)
 ![GitHub Downloads](https://img.shields.io/github/downloads/grayespinoza/julie/total?style=flat&label=GitHub%20Downloads&labelColor=%231b1b1b&color=%231f883d)
 ![Flathub Downloads](https://img.shields.io/flathub/downloads/io.github.grayespinoza.Julie?style=flat&label=Flathub%20Downloads&labelColor=%231b1b1b&color=%231f883d)
 
